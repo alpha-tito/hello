@@ -22,9 +22,9 @@ int main(int /*argc*/ , char * /*args*/[])
     // alvin:
     cout << "" << endl;
     // ellen:
-    cout << "fork from tito" << endl;
-    // tito:
     cout << "" << endl;
+    // tito:
+    cout << "fork from tito" << endl;
     // steven:
     cout << "" << endl;
     // chris:
